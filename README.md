@@ -2,5 +2,4 @@
 
 A suite of checks covering both regular tests and edged cases for each task.
 
-## Configuration
-Open the file ```config`` and update the variable ```SHELL`` with your shell.
+# File's relating to task name are where the test's are located.
